@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @acress1
+- 👀 I’m interested in FOSS, fleeing from GAFAMs etc. but I'm quite new, surely curious!
+- 📫 Reach me on Matrix @cress1:tedomum.net :)
